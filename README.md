@@ -1,6 +1,6 @@
 # MusicStoreDataAnalysis
 This repository includes SQL queries performed on a Music Store Database.
-Following are the questions solved.
+Following are the questions solved in this repo
 
 Question Set 1 - Easy
 1. Who is the senior most employee based on job title?
